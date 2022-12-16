@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eazow
 - 👀 I’m interested in coding, gaming
-- 🌱 I’m currently learning c
+- 🌱 I’m currently learning os
 
 <!---
 - 💞️ I’m looking to collaborate on ...
