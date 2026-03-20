@@ -6,7 +6,7 @@
 
 </div>
 
----
+
 
 ## 🧬 About Me
 
@@ -18,7 +18,6 @@ class Eazow:
     superpower = "Turning caffeine into commits ☕→💻"
 ```
 
----
 
 ## 🎮 Stack & Interests
 
@@ -28,7 +27,6 @@ class Eazow:
 | Clean code > clever code | Strategy & FPS | Memory management, syscalls |
 | Open source contributor | Always one more round | Linux under the hood |
 
----
 
 ## 🌱 Currently Learning
 
@@ -39,7 +37,6 @@ class Eazow:
 - 🔐 System calls & kernel space
 - 🐧 Getting dangerously comfortable with Linux internals
 
----
 
 ## 💬 Words I Live By
 
@@ -51,7 +48,6 @@ class Eazow:
 > 
 > *Always: stay kind and stay positive.*
 
----
 
 <div align="center">
 
