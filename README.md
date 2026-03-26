@@ -48,6 +48,13 @@ class Eazow:
 > 
 > *Always: stay kind and stay positive.*
 
+## 🖥️ Languages
+
+[![Languages](https://skillicons.dev/icons?i=python,c,go,rust,php,java,ts,js,bash&perline=9)](https://skillicons.dev)
+
+## 🛠️ Technologies
+
+[![Technologies](https://skillicons.dev/icons?i=kafka,redis,mongodb,mysql,postgres,elasticsearch,sqlite,graphql,git,fastapi,flask,django,docker,jquery,laravel,nginx,nodejs,pnpm,yarn,react,vue,regex,sentry,vim,md&perline=13)](https://skillicons.dev)
 
 <div align="center">
 
