@@ -75,24 +75,13 @@ Frontend             ████████████░░░░░░░�
 
 ## 📟 Fortune
 
-```bash
-$ fortune
-```
+<details>
+<summary>🎲 点击摇一个 fortune</summary>
 
-<p id="fortune" align="center"><em>rolling the dice...</em></p>
+> "The best code is the code you understand at 3am." 🌙
 
-<script>
-(function () {
-  var quotes = [
-    "What I cannot create, I do not understand. — Richard Feynman",
-    "The best code is the code you understand at 3am. 🌙",
-    "唯一不变的就是变化。",
-    "我们必须接受失望，因为失望是有限的，但我们永远不能放弃希望，因为希望是无限的。"
-  ];
-  var el = document.getElementById('fortune');
-  if (el) el.textContent = quotes[Math.floor(Math.random() * quotes.length)];
-})();
-</script>
+</details>
+
 
 ## 🖥️ Languages
 
