@@ -2,11 +2,25 @@
 
 # 👾 Hey, I'm Eazow
 
-*Builder by day. Gamer by night. OS explorer always.*
+![Typing SVG](../images/eazow-tagline-typing.svg)
 
 </div>
 
+```bash
+$ whoami
+Eazow
 
+$ neofetch
+-------------------------------------------
+OS: Human 5.x (runs on caffeine)
+Host: Earth, Sol System
+Kernel: Linux 6.x — getting comfortable
+Shell: zsh
+Editor: neovim
+Uptime: since childhood, still compiling
+Languages: Python, C, Go, Rust, PHP, Java, TS, JS, Bash
+-------------------------------------------
+```
 
 ## 🧬 About Me
 
@@ -40,13 +54,45 @@ class Eazow:
 
 ## 💬 Words I Live By
 
-> *If you are at the top of your life — stay humble.*
+> *If you are at the top of your life, remember to stay humble.*
 > 
-> *If you are at the bottom of your life — stay courageous.*
+> *If you are at the bottom of your life, remember to stay courageous.*
 > 
-> *If you are in a problem — stay calm.*
+> *If you are in a problem, remember to stay calm.*
 > 
-> *Always: stay kind and stay positive.*
+> *Always remember, stay kind and positive.*
+
+
+## 📊 Skill Levels
+
+```text
+Systems Programming  ████████████████░░░░  80%
+Backend Development  ███████████████████░  95%
+Linux / OS Internals ██████████████░░░░░░  70%  ← leveling up
+Security (IDS/IPS)   █████████████░░░░░░░  65%
+Frontend             ████████████░░░░░░░░  60%
+```
+
+## 📟 Fortune
+
+```bash
+$ fortune
+```
+
+<p id="fortune" align="center"><em>rolling the dice...</em></p>
+
+<script>
+(function () {
+  var quotes = [
+    "What I cannot create, I do not understand. — Richard Feynman",
+    "The best code is the code you understand at 3am. 🌙",
+    "唯一不变的就是变化。",
+    "我们必须接受失望，因为失望是有限的，但我们永远不能放弃希望，因为希望是无限的。"
+  ];
+  var el = document.getElementById('fortune');
+  if (el) el.textContent = quotes[Math.floor(Math.random() * quotes.length)];
+})();
+</script>
 
 ## 🖥️ Languages
 
@@ -56,10 +102,41 @@ class Eazow:
 
 [![Technologies](https://skillicons.dev/icons?i=kafka,redis,mongodb,mysql,postgres,elasticsearch,sqlite,graphql,git,fastapi,flask,django,docker,jquery,laravel,nginx,nodejs,pnpm,yarn,react,vue,regex,sentry,vim,md&perline=13)](https://skillicons.dev)
 
-<div align="center">
+<!-- 用表格单行排列，强制一行 -->
+<table><tr>
+  <td style="border-width: 0"><img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logo=suricata&logoColor=white"/></td>
+  <td style="border-width: 0"><img src="https://img.shields.io/badge/Snort-CC0000?style=for-the-badge&logo=snort&logoColor=white"/></td>
+  <td style="border-width: 0"><img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/></td>
+  <td style="border-width: 0"><img src="https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/></td>
+  <td style="border-width: 0"><img src="https://img.shields.io/badge/Apache_Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black"/></td>
+</tr>
+</table>
 
-*"The best code is the code you understand at 3am."* 🌙
+## Github Contributions
+
+<!--img src="http://ghchart.rshah.org/eazow" alt="Github Contributions" style="zoom:136%;" /-->
+![](../images/github-user-contribution.svg)
+
+<p align="center">
+  <img src="https://github-readme-stats-rickstaa.vercel.app/api?username=eazow&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="195"/>
+  <img src="https://streak-stats.demolab.com/?user=eazow&theme=tokyonight" alt="GitHub Streak" height="195"/>
+  <img src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=eazow&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="195"/>
+</p>
+
+## 🤖 AI Tools
+
+<table><tr>
+  <td style="border-width: 0"><img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claudecode&logoColor=white"/></td>
+  <td style="border-width: 0"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/></td>
+  <td style="border-width: 0"><img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/></td>
+  <td style="border-width: 0"><img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/></td>
+  <td style="border-width: 0"><img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/></td>
+  <td style="border-width: 0"><img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logoColor=white"/></td>
+  <td style="border-width: 0"><img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logoColor=white"/></td>
+</tr>
+</table>
+
+<br/>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=eazow.eazow)
 
-</div>
