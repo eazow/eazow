@@ -2,7 +2,7 @@
 
 # 👾 Hey, I'm Eazow
 
-![Typing SVG](../images/eazow-tagline-typing.svg)
+![Typing SVG](./images/eazow-tagline-typing.svg)
 
 </div>
 
@@ -115,7 +115,7 @@ $ fortune
 ## Github Contributions
 
 <!--img src="http://ghchart.rshah.org/eazow" alt="Github Contributions" style="zoom:136%;" /-->
-![](../images/github-user-contribution.svg)
+![](./images/github-user-contribution.svg)
 
 <p align="center">
   <img src="https://github-readme-stats-rickstaa.vercel.app/api?username=eazow&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="195"/>
